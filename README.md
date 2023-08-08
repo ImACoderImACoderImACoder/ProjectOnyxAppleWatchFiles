@@ -1,4 +1,4 @@
-d o# ProjectOnyxAppleWatchFiles
+# ProjectOnyxAppleWatchFiles
 Files used to add project onyx code to the Apple Watch
 
 Start by opening xcode and creating a new project for Watch OS.  Select the type "App"
