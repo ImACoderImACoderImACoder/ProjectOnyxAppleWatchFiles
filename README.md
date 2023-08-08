@@ -1,7 +1,7 @@
 # ProjectOnyxAppleWatchFiles
 Files used to add project onyx code to the Apple Watch
 
-Start by opening xcode and creating a new project for Watch OS.  Select the type "App"
+Start by opening xcode and creating a new project for Watch OS.  Select the type "App" and make sure it is a watch-only app
 
 Try to build the app.  If you get a build error becuase no profiles for .watchkitapp click on the error and rename it after the project with a dot before it.  this will sign the app and allow it to build
 
